@@ -8,8 +8,8 @@ const db = new pg.Client({
   user: "postgres",
   host: "localhost",
   database: "To-do list",
-  password: "dachaNomo#SQL",
-  port: 5432,
+  password: *****,
+  port: ****,
 });
 
 db.connect();
